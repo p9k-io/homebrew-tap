@@ -1,6 +1,6 @@
 cask "agent-activity-monitor" do
-  version "0.1.0"
-  sha256 "2bac31cf095b0111046486cce6a292d4bd987eb11c171f986e173d8693dce087"
+  version "0.1.1"
+  sha256 "630c91ce9ba8abb5557baabca9985c1ce3acdfdc19de66116ae5248e15bdc40e"
 
   url "https://github.com/p9k-io/agent-activity-monitor/releases/download/v#{version}/Agent-Activity-Monitor-#{version}.dmg"
   name "Agent Activity Monitor"
